@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+- name: src/FileCountTask.java
+  visible: true
+  learner_created: true
+- name: src/FileCountSumTask.java
+  visible: true
+  learner_created: true
+- name: src/FilePopulatioIncreaseTask.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/3660
+status: Solved
+record: -1
